@@ -1,2 +1,2 @@
 # remoto-temporal
-Repositorio temporal para subir archivos de trabajos cotidianos.
+Repositorio temporal para subir archivos de trabajos.
